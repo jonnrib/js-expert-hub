@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "busboy": "^1.6.0",
-    "pino": "^8.15.1",
+    "pino": "^8.20.0",
     "pino-pretty": "^10.2.0"
   },
   "type": "module",
